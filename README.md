@@ -17,9 +17,9 @@ requires [Node.js](https://nodejs.org/) v10+ to run.
 Install the dependencies and start the app.
 
 ```sh
-cd MultiTenancy_Nodejs
-npm i
-node server
+cd bookstore
+npm install
+npm start
 ```
 
 
